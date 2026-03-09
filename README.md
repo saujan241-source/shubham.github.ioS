@@ -4,7 +4,7 @@
 <style>
 body{
 font-family: Arial;
-background:#111;
+background:#0000FF">;
 color:white;
 text-align:center;
 padding:40px;
@@ -34,7 +34,7 @@ color:#00ffcc;
 
 <p>TOOK FKING AN HOUR TO CREAT SO I DON'T CARE
 YOU LIKE IT OR NOT </p>
-</p>GET LOST!</p>
+GET LOST!
 
 </div>
 
