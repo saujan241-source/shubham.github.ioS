@@ -32,11 +32,6 @@ color:#00ffcc;
 <p>Learning Web Development</p>
 <p>From Nepal <:)</p>
 
-<p>TOOK FKING AN HOUR TO CREAT SO I DON'T CARE
-YOU LIKE IT OR NOT </p>
-GET LOST!
-
-</div>
-
+</div> body background="rose.jpeg">
 </body>
 </html>
